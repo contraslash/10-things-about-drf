@@ -6,6 +6,9 @@
 
 ## Ideas
 - Django in a single file
+  - [Mini Django](https://github.com/readevalprint/mini-django)
+  - [Django vs Flask](https://adamj.eu/tech/2019/04/03/django-versus-flask-with-single-file-applications/)
+  - [Lightweight Django](https://www.oreilly.com/library/view/lightweight-django/9781491946275/ch01.html)
 - Serializer Method Fields
 - Renaming with parameter
 - Custom urls in viewsets
@@ -13,3 +16,9 @@
 - Django URL Filter
 - Content Negotiation?
 
+
+```bash
+python -m venv ten_things_about_drf_env
+source ten_things_about_drf_env/bin/activate
+pip install django
+```
